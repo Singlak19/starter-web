@@ -9,3 +9,6 @@ Sample website with plenty of files for demos
 ## In Staging Area
 
 ## In Workspace 
+
+### Copyright
+Copyrighted
