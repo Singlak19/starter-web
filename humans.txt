@@ -5,7 +5,7 @@
     <name> -- <role> -- <twitter>
 	Karan Singla -- Developer -- Hello
 # THANKS
-
+	Thank you Everyone!!!!!!!
     <name>
 
 # TECHNOLOGY COLOPHON
