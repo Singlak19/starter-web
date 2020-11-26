@@ -12,4 +12,4 @@ Sample website with plenty of files for demos
 ## In Workspace 
 	i am in Workspace now. Now more changes
 ### Copyright
-Copyrighted
+	Copyrighted. All rights Reserved.
